@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi! 👋 I'm Patricio.
+## A web engineer located in Durham, NC. 
+Currently working on [Leftovers](https://www.leftovers.love/), a web app to fight food waste with my friend [RaihanSaleh](https://github.com/RaihanSaleh)
+
 
 <!--
 **patgarcia/patgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![mew](https://github.githubassets.com/images/mona-whisper.gif)
