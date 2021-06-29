@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mew](https://github.githubassets.com/images/mona-whisper.gif)
+<!-- ![mew](https://github.githubassets.com/images/mona-whisper.gif) -->
