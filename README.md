@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Patricio.
 ## A web engineer located in Durham, NC. 
-### Currently working on [Leftovers](https://www.leftovers.love/)--👷🏼‍♂️🚧, a web app to fight food waste with my friend [RaihanSaleh](https://github.com/RaihanSaleh)
+#### Currently working on [Leftovers](https://www.leftovers.love/)--👷🏼‍♂️🚧, a web app to fight food waste with my friend [RaihanSaleh](https://github.com/RaihanSaleh)
 
 ### Check out [my portfolio](https://patgarcia.github.io/)
 
