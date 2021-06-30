@@ -2,6 +2,7 @@
 ## A web engineer located in Durham, NC. 
 ### Currently working on [Leftovers](https://www.leftovers.love/)--👷🏼‍♂️🚧, a web app to fight food waste with my friend [RaihanSaleh](https://github.com/RaihanSaleh)
 
+### Check out [my portfolio](https://patgarcia.github.io/)
 
 <!--
 **patgarcia/patgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
