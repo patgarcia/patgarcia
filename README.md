@@ -1,4 +1,3 @@
-## Web engineer located in Durham, NC. 
 ### Check out [my portfolio](https://patricio.work/)
 
 <!--
